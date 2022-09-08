@@ -1,0 +1,42 @@
+.first {
+    color: red;
+}
+
+.second {
+    color: blue;
+}
+
+.third {
+    color: green;
+}
+
+.lasagna {
+    color: red
+}
+
+.scrambled-eggs {
+    color: blue;
+}
+
+.pizza {
+    color: green;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+#egg-img {
+    height: 500px;
+    width: 500px;
+}
+
+body {
+    font-family: "Times New Roman", sans-serif;
+}
+
+h1,
+h2 {
+    font-weight: 900;
+    color: rgb(19, 214, 228);
+}
